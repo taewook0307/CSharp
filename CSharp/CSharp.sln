@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_if", "005_if\005_if.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Switch", "006_Switch\006_Switch.csproj", "{D06C54F4-9809-4D48-8BE8-4E5B1137901F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Loop", "007_Loop\007_Loop.csproj", "{65EA99CB-2237-4B44-BC05-9D3D4583CE85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D06C54F4-9809-4D48-8BE8-4E5B1137901F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D06C54F4-9809-4D48-8BE8-4E5B1137901F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D06C54F4-9809-4D48-8BE8-4E5B1137901F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EA99CB-2237-4B44-BC05-9D3D4583CE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EA99CB-2237-4B44-BC05-9D3D4583CE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EA99CB-2237-4B44-BC05-9D3D4583CE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EA99CB-2237-4B44-BC05-9D3D4583CE85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
