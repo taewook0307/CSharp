@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Variables", "002_Variab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_var", "003_var\003_var.csproj", "{6281A0BF-04CB-4CDE-8009-70C5213F1A91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Cast", "004_Cast\004_Cast.csproj", "{2B4698D3-347D-4B87-9819-5B5409698F15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6281A0BF-04CB-4CDE-8009-70C5213F1A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6281A0BF-04CB-4CDE-8009-70C5213F1A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6281A0BF-04CB-4CDE-8009-70C5213F1A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4698D3-347D-4B87-9819-5B5409698F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4698D3-347D-4B87-9819-5B5409698F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4698D3-347D-4B87-9819-5B5409698F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4698D3-347D-4B87-9819-5B5409698F15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
