@@ -10,7 +10,7 @@ namespace MyClass
     internal class Student
     {
         // 인스턴스 변수
-        // 클래스를 이용해 생성된 인스턴스에서 사용하는 변수
+        // 클래스를 이용해 생성된 인스턴스에서 사용하는 속성값(변수)
         // [접근 제한자 : default = private] 자료형 [변수명]
         private string name;
         private int age;
@@ -23,6 +23,12 @@ namespace MyClass
             className = _className;
         }
 
+        // 메서드
+        // 클래스를 이용해 생성된 인스턴스에서 사용되는 행위(= 함수)
+        // [접근 제한자 : default = private] [반환형] [메서드 이름] ([매개변수])
+        // {
+        //      [메서드 코드]
+        // }
         public void PrintStudentInfo()
         {
             Console.WriteLine("name : " + name);
@@ -46,6 +52,10 @@ namespace MyClass
 
         // 클래스 메서드
         // 인스턴스를 생성하지 않고 클래스 명을 이용해 사용할 수 있는 메서드
+        // [접근 제한자 : default = private] static [반환형] [메서드 이름] ([매개변수])
+        // {
+        //      [메서드 코드]
+        // }
         public static StudentManager GetManager()
         {
             if (studentManager == null)
