@@ -16,11 +16,33 @@ namespace MyClass
         private int age;
         private char className;
 
+        // 생성자 : 인스턴스가 생성될 때 실행되는 메서드
+        // [접근제한자] [클래스 이름]([매개변수])
+        // {
+        //
+        // }
         internal Student(string _name, int _age, char _className)
         {
             name = _name;
             age = _age;
             className = _className;
+        }
+        // 정적 생성자 : static이 붙여진 생성자 => static 멤버 변수를 초기화할 때 사용
+        // 매개변수 X, 접근제한자 X, 자주 사용 X
+        // static [클래스 이름]()
+        // {
+        //
+        // }
+        // 해당 클래스와 관련된 요소를 처음 사용할 때 한 번만 실행됨
+
+        // 소멸자 : 인스턴스가 소멸될 때 실행되는 메서드
+        // ~[클래스 이름]()
+        // {
+        //
+        // }
+        ~Student()
+        {
+
         }
 
         // 메서드
