@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_GetSet", "010_GetSet\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Inherit", "011_Inherit\011_Inherit.csproj", "{F9721C6D-D878-446F-8726-C257F33331B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Override", "012_Override\012_Override.csproj", "{444A9716-D6EB-4872-BCA7-08DD04404333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F9721C6D-D878-446F-8726-C257F33331B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9721C6D-D878-446F-8726-C257F33331B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9721C6D-D878-446F-8726-C257F33331B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444A9716-D6EB-4872-BCA7-08DD04404333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444A9716-D6EB-4872-BCA7-08DD04404333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444A9716-D6EB-4872-BCA7-08DD04404333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444A9716-D6EB-4872-BCA7-08DD04404333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
