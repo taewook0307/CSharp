@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Override", "012_Overrid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Sealed", "013_Sealed\013_Sealed.csproj", "{ED7A8FF5-B083-44ED-8270-669808E067C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_Abstract", "014_Abstract\014_Abstract.csproj", "{FE71E35F-522C-47DD-98A3-2294A20CB0F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{ED7A8FF5-B083-44ED-8270-669808E067C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED7A8FF5-B083-44ED-8270-669808E067C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED7A8FF5-B083-44ED-8270-669808E067C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE71E35F-522C-47DD-98A3-2294A20CB0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE71E35F-522C-47DD-98A3-2294A20CB0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE71E35F-522C-47DD-98A3-2294A20CB0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE71E35F-522C-47DD-98A3-2294A20CB0F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
