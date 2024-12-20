@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Inherit", "011_Inherit\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Override", "012_Override\012_Override.csproj", "{444A9716-D6EB-4872-BCA7-08DD04404333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Sealed", "013_Sealed\013_Sealed.csproj", "{ED7A8FF5-B083-44ED-8270-669808E067C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{444A9716-D6EB-4872-BCA7-08DD04404333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{444A9716-D6EB-4872-BCA7-08DD04404333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{444A9716-D6EB-4872-BCA7-08DD04404333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7A8FF5-B083-44ED-8270-669808E067C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7A8FF5-B083-44ED-8270-669808E067C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7A8FF5-B083-44ED-8270-669808E067C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7A8FF5-B083-44ED-8270-669808E067C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
