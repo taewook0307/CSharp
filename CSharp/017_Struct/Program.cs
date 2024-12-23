@@ -7,11 +7,11 @@
 
         // 매개 변수 없는 생성자는 기본으로 생성됨
         // 매개 변수 없는 생성자에서는 기본값으로 초기화 ex) int -> 0
-        //public Point()
-        //{
-        //    x = 0;
-        //    y = 0;
-        //}
+        public Point()
+        {
+            x = 0;
+            y = 0;
+        }
 
         public Point(int _x, int _y)
         {
@@ -24,6 +24,12 @@
             x = _x;
         }
     }
+
+    // struct 상속 X
+    //struct Test : Point
+    //{
+
+    //}
 
     internal class Program
     {
