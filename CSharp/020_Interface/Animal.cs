@@ -24,8 +24,13 @@ namespace _020_Interface
         void Fly(int _speed);
     }
 
-    // 클래스는 여러 클래스를 상속받을 수 없지만 여러 인터페이스는 상속 가능
-    internal class Bird : Animal, ICanFly
+    abstract class FlyUnit
+    {
+        public abstract void Fly();
+    }
+
+    // 클래스는 여러 클래스(추상 클래스 포함)를 상속받을 수 없지만 여러 인터페이스는 상속 가능
+    internal class Bird : Animal, ICanFly/*, FlyUnit*/
     {
         public override void Eat()
         {
