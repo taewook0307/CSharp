@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_Indexer", "016_Indexer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_Struct", "017_Struct\017_Struct.csproj", "{1B77E3EF-2835-45BF-A226-57C59A71056A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_Tuple", "018_Tuple\018_Tuple.csproj", "{03A9B8FB-B6F1-430F-AF44-8206ED9380A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1B77E3EF-2835-45BF-A226-57C59A71056A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B77E3EF-2835-45BF-A226-57C59A71056A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B77E3EF-2835-45BF-A226-57C59A71056A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A9B8FB-B6F1-430F-AF44-8206ED9380A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A9B8FB-B6F1-430F-AF44-8206ED9380A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A9B8FB-B6F1-430F-AF44-8206ED9380A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A9B8FB-B6F1-430F-AF44-8206ED9380A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
