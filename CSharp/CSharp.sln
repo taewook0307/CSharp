@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{12EE20BE-4AEC-417A-82F6-214DE4DE15A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{B855BA70-7167-49B7-AD9A-180A3AD2266B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{12EE20BE-4AEC-417A-82F6-214DE4DE15A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12EE20BE-4AEC-417A-82F6-214DE4DE15A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12EE20BE-4AEC-417A-82F6-214DE4DE15A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B855BA70-7167-49B7-AD9A-180A3AD2266B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B855BA70-7167-49B7-AD9A-180A3AD2266B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B855BA70-7167-49B7-AD9A-180A3AD2266B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B855BA70-7167-49B7-AD9A-180A3AD2266B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -156,5 +162,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{06801D34-215B-4973-A923-C0134D4CA009} = {E708CBB5-924D-4098-AD3B-4E5CE6A5CD4D}
 		{12EE20BE-4AEC-417A-82F6-214DE4DE15A2} = {E708CBB5-924D-4098-AD3B-4E5CE6A5CD4D}
+		{B855BA70-7167-49B7-AD9A-180A3AD2266B} = {E708CBB5-924D-4098-AD3B-4E5CE6A5CD4D}
 	EndGlobalSection
 EndGlobal
