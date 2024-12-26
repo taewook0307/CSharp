@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_Exception", "021_Except
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructure", "DataStructure", "{E708CBB5-924D-4098-AD3B-4E5CE6A5CD4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{06801D34-215B-4973-A923-C0134D4CA009}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,8 +139,15 @@ Global
 		{7348AAF0-10AA-46A5-844D-F907DF86CDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7348AAF0-10AA-46A5-844D-F907DF86CDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7348AAF0-10AA-46A5-844D-F907DF86CDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06801D34-215B-4973-A923-C0134D4CA009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06801D34-215B-4973-A923-C0134D4CA009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06801D34-215B-4973-A923-C0134D4CA009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06801D34-215B-4973-A923-C0134D4CA009}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06801D34-215B-4973-A923-C0134D4CA009} = {E708CBB5-924D-4098-AD3B-4E5CE6A5CD4D}
 	EndGlobalSection
 EndGlobal
